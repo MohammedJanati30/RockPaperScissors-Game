@@ -1,14 +1,22 @@
-🎮 Rock Paper Scissors Game
+🎮 Rock Paper Scissors Game   
 
 A simple desktop game built using C# Windows Forms where the player competes against the computer in the classic Rock Paper Scissors challenge.
 
-🧠 How it works
-The player selects one of the three choices:
-Rock 🪨
-Paper 📄
+🧠 How it works  
+
+The player selects one of the three choices:  
+
+Rock 🪨   
+
+Paper 📄  
+
 Scissors ✂️
-The computer randomly selects its choice.
-The winner of each round is determined based on the classic rules:
+
+
+The computer randomly selects its choice.  
+
+The winner of each round is determined based on the classic rules:  
+
 Rock beats Scissors
 Scissors beats Paper
 Paper beats Rock
